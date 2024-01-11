@@ -46,7 +46,8 @@ flutter run
 
 ## Video Demo 🎥
 For example:
-[Project Video Demo]
+
+Uploading linkdin.mp4…
 
 ## Contributing
 

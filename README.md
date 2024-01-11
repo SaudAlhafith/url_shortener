@@ -44,11 +44,6 @@ flutter run
 - POST `/shorten`: Accepts a URL and an optional alias to provide a shortened URL.
 - GET `/<short_id>`: Redirects to the original URL based on the provided short ID.
 
-## Video Demo 🎥
-For example:
-
-Uploading linkdin.mp4…
-
 ## Contributing
 
 If you'd like to contribute to this project, please feel free to fork the repository, make your changes, and submit a pull request.
